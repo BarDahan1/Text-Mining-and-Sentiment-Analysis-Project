@@ -1,0 +1,512 @@
+00:10:41,470 INFO Running Finviz Scraper
+16:11:27,187 INFO Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex .
+17:18:13,846 INFO Running Finviz Scraper on BABA by flair
+17:19:52,577 INFO Running Finviz Scraper on BABA by flair
+17:24:22,526 INFO Running Finviz Scraper on BABA by flair
+17:25:43,409 INFO Running Finviz Scraper on BABA by flair
+17:29:42,957 INFO Running Finviz Scraper on BABA by flair
+17:32:13,204 INFO Running Finviz Scraper on BABA by flair
+17:34:20,67 INFO Running Finviz Scraper on BABA by flair
+17:37:24,465 INFO Running Finviz Scraper on BABA by flair
+17:39:00,641 INFO Running Finviz Scraper on BABA by flair
+17:39:52,954 INFO Running Finviz Scraper on BABA by flair
+17:40:26,532 INFO Running Finviz Scraper on BABA by flair
+17:41:10,65 INFO Running Finviz Scraper on BABA by flair
+17:41:39,581 INFO Running Finviz Scraper on BABA by flair
+17:44:25,608 INFO Running Finviz Scraper on BABA by flair
+17:44:50,201 INFO Running Finviz Scraper on BABA by flair
+17:45:45,959 INFO Running Finviz Scraper on BABA by flair
+17:57:33,421 INFO Running Finviz Scraper on BABA by flair
+17:59:30,942 INFO Running Finviz Scraper on BABA by flair
+18:00:31,778 INFO Running Finviz Scraper on BABA by flair
+18:03:42,663 INFO Finished scraping BABA news from Finviz
+18:03:42,963 INFO Starting analyzing BABA news by flair
+18:04:41,745 INFO Program finished analyzing
+18:05:53,975 INFO Running Finviz Scraper on BABA by vader
+18:08:55,139 INFO Finished scraping BABA news from Finviz
+18:08:55,455 INFO Starting analyzing BABA news by vader
+18:09:49,795 INFO Program finished analyzing
+18:13:05,108 INFO Running Finviz Scraper on BABA by flair
+18:16:06,268 INFO Finished scraping BABA news from Finviz
+18:16:06,564 INFO Starting analyzing BABA news by flair
+18:17:02,275 INFO Program finished analyzing
+18:18:34,770 INFO Running Finviz Scraper on BABA by vader
+18:21:36,381 INFO Finished scraping BABA news from Finviz
+18:21:36,688 INFO Starting analyzing BABA news by vader
+18:22:34,34 INFO Program finished analyzing
+18:28:48,406 INFO Running Finviz Scraper on BABA by flair
+18:31:49,914 INFO Finished scraping BABA news from Finviz
+18:31:50,233 INFO Starting analyzing BABA news by flair
+18:32:52,961 INFO Program finished analyzing
+08:40:03,246 INFO Running Finviz Scraper on BABA by flair
+08:43:00,707 INFO Finished scraping BABA news from Finviz
+08:43:01,929 INFO Starting analyzing BABA news by flair
+08:44:06,709 INFO Program finished analyzing
+08:49:10,49 INFO Running Finviz Scraper on BABA by flair
+08:56:03,266 INFO Running Finviz Scraper on BABA by flair
+08:59:14,162 INFO Running Finviz Scraper on BABA by flair
+09:13:02,38 INFO Running Finviz Scraper on BABA by flair
+09:15:49,956 INFO Running Finviz Scraper on BABA by flair
+09:16:59,568 INFO Running Finviz Scraper on BABA by flair
+09:21:14,246 INFO Running Finviz Scraper on BABA by flair
+09:34:13,771 INFO Running Finviz Scraper on BABA by flair
+09:54:08,345 INFO Running Finviz Scraper on BABA by flair
+09:57:47,110 INFO Running Finviz Scraper on BABA by flair
+10:41:15,291 INFO Running Finviz Scraper on BABA by flair
+10:42:10,573 INFO Running Finviz Scraper on BABA by flair
+10:44:21,874 INFO Running Finviz Scraper on BABA by flair
+10:47:31,4 INFO Finished scraping BABA news from Finviz
+10:47:31,339 INFO Starting analyzing BABA news by flair
+10:48:36,327 INFO Program finished analyzing
+10:49:31,262 INFO Running Finviz Scraper on BABA by vader
+10:54:14,651 INFO Running Finviz Scraper on BABA by vader
+10:58:50,275 INFO Running Finviz Scraper on BABA by vader
+11:00:15,179 INFO Running Finviz Scraper on BABA by vader
+11:03:48,106 INFO Finished scraping BABA news from Finviz
+11:03:48,440 INFO Starting analyzing BABA news by vader
+11:06:19,727 INFO Running Finviz Scraper on BABA by vader
+11:09:01,217 INFO Running Finviz Scraper on BABA by vader
+11:16:36,709 INFO Running Finviz Scraper on BABA by flair
+11:17:05,627 INFO Running Finviz Scraper on BABA by flair
+11:21:58,599 INFO Running Finviz Scraper on BABA by flair
+11:24:55,993 INFO Running Finviz Scraper on BABA by flair
+11:31:43,629 INFO Running Finviz Scraper on BABA by flair
+11:33:09,769 INFO Running Finviz Scraper on BABA by flair
+11:36:26,117 INFO Finished scraping BABA news from Finviz
+11:36:26,444 INFO Starting analyzing BABA news by flair
+11:37:30,610 INFO Program finished analyzing
+11:37:42,559 INFO Running Finviz Scraper on BABA by vader
+11:40:49,980 INFO Finished scraping BABA news from Finviz
+11:40:50,250 INFO Starting analyzing BABA news by vader
+11:42:00,421 INFO Running Finviz Scraper on BABA by vader
+11:45:26,190 INFO Finished scraping BABA news from Finviz
+11:45:26,556 INFO Starting analyzing BABA news by vader
+11:46:13,768 INFO Running Finviz Scraper on BABA by vader
+11:49:34,815 INFO Finished scraping BABA news from Finviz
+11:49:35,116 INFO Starting analyzing BABA news by vader
+11:50:39,951 INFO Program finished analyzing
+12:07:05,62 INFO Running Finviz Scraper on BABA by flair
+12:10:23,678 INFO Finished scraping BABA news from Finviz
+12:10:23,991 INFO Starting analyzing BABA news by flair
+12:11:37,430 INFO Program finished analyzing
+12:12:25,751 INFO Running Finviz Scraper on BABA by flair
+12:15:45,647 INFO Finished scraping BABA news from Finviz
+12:15:45,980 INFO Starting analyzing BABA news by flair
+12:17:00,272 INFO Program finished analyzing
+12:18:01,474 INFO Running Finviz Scraper on BABA by flair
+12:18:51,606 INFO Running Finviz Scraper on BABA by flair
+12:19:44,577 INFO Running Finviz Scraper on BABA by flair
+12:23:03,444 INFO Running Finviz Scraper on BABA by flair
+12:24:57,50 INFO Running Finviz Scraper on BABA by flair
+12:33:34,803 INFO Running Finviz Scraper on BABA by flair
+12:39:02,515 INFO Running Finviz Scraper on BABA by flair
+12:39:57,15 INFO Running Finviz Scraper on BABA by flair
+12:40:52,538 INFO Running Finviz Scraper on BABA by flair
+12:41:19,670 INFO Running Finviz Scraper on BABA by flair
+12:57:52,356 INFO Running Finviz Scraper on BABA by flair
+12:58:49,852 INFO Running Finviz Scraper on BABA by flair
+13:07:11,74 INFO Running Finviz Scraper on BABA by flair
+13:09:27,264 INFO Running Finviz Scraper on BABA by flair
+13:21:05,597 INFO Running Finviz Scraper on BABA by flair
+13:21:53,581 INFO Running Finviz Scraper on BABA by flair
+13:35:13,126 INFO Running Finviz Scraper on BABA by flair
+13:43:15,455 INFO Running Finviz Scraper on BABA by flair
+13:44:38,860 INFO Running Finviz Scraper on BABA by flair
+14:04:57,234 INFO Running Finviz Scraper on BABA by flair
+14:07:27,766 INFO Running Finviz Scraper on BABA by flair
+14:13:58,375 INFO Running Finviz Scraper on BABA by flair
+14:17:29,498 INFO Finished scraping BABA news from Finviz
+14:17:29,825 INFO Starting analyzing BABA news by flair
+14:43:05,604 INFO Running Finviz Scraper on BABA by flair
+15:23:32,214 INFO Running Finviz Scraper on BABA by flair
+15:31:07,609 INFO Running Finviz Scraper on BABA by flair
+15:34:58,160 INFO Finished scraping BABA news from Finviz
+15:34:58,514 INFO Starting analyzing BABA news by flair
+15:35:10,553 INFO Program finished analyzing
+15:35:16,516 INFO Program finished analyzing
+15:35:24,611 INFO Program finished analyzing
+15:35:42,905 INFO Program finished analyzing
+15:35:55,472 INFO Program finished analyzing
+15:36:03,255 INFO Program finished analyzing
+15:36:34,198 INFO Program finished analyzing
+15:36:44,56 INFO Program finished analyzing
+15:37:14,991 INFO Program finished analyzing
+15:37:16,23 INFO Program finished analyzing
+15:37:50,127 INFO Program finished analyzing
+15:37:53,805 INFO Program finished analyzing
+15:38:38,147 INFO Program finished analyzing
+15:38:42,381 INFO Program finished analyzing
+15:39:07,786 INFO Program finished analyzing
+15:39:09,195 INFO Program finished analyzing
+15:40:21,201 INFO Program finished analyzing
+15:40:22,679 INFO Program finished analyzing
+15:40:26,687 INFO Program finished analyzing
+15:40:27,458 INFO Program finished analyzing
+15:40:46,724 INFO Program finished analyzing
+15:40:53,49 INFO Program finished analyzing
+15:40:59,356 INFO Program finished analyzing
+15:41:31,52 INFO Program finished analyzing
+15:42:22,727 INFO Program finished analyzing
+15:42:26,275 INFO Program finished analyzing
+15:42:29,950 INFO Program finished analyzing
+15:42:36,245 INFO Program finished analyzing
+15:42:49,322 INFO Program finished analyzing
+15:43:35,135 INFO Program finished analyzing
+15:51:29,785 INFO Running Finviz Scraper on BABA by flair
+15:52:14,795 INFO Running Finviz Scraper on BABA by flair
+15:55:32,263 INFO Finished scraping BABA news from Finviz
+15:55:32,622 INFO Starting analyzing BABA news by flair
+15:55:44,315 INFO Program finished analyzing
+15:55:50,740 INFO Program finished analyzing
+15:55:58,922 INFO Program finished analyzing
+15:56:17,212 INFO Program finished analyzing
+15:56:29,402 INFO Program finished analyzing
+15:56:36,435 INFO Program finished analyzing
+15:57:07,662 INFO Program finished analyzing
+15:57:17,470 INFO Program finished analyzing
+15:57:47,423 INFO Program finished analyzing
+15:57:48,658 INFO Program finished analyzing
+15:58:21,321 INFO Program finished analyzing
+15:58:24,784 INFO Program finished analyzing
+15:59:12,724 INFO Program finished analyzing
+15:59:16,728 INFO Program finished analyzing
+15:59:47,110 INFO Program finished analyzing
+15:59:48,422 INFO Program finished analyzing
+16:01:07,986 INFO Program finished analyzing
+16:01:09,413 INFO Program finished analyzing
+16:01:13,299 INFO Program finished analyzing
+16:01:18,908 INFO Program finished analyzing
+16:01:19,734 INFO Program finished analyzing
+16:01:38,610 INFO Program finished analyzing
+16:01:44,942 INFO Program finished analyzing
+16:01:51,278 INFO Program finished analyzing
+16:02:23,24 INFO Program finished analyzing
+16:03:14,255 INFO Program finished analyzing
+16:03:17,338 INFO Program finished analyzing
+16:03:21,199 INFO Program finished analyzing
+16:03:27,639 INFO Program finished analyzing
+16:03:40,631 INFO Program finished analyzing
+16:04:26,963 INFO Program finished analyzing
+16:13:16,675 INFO Running Finviz Scraper on BABA by flair
+16:15:51,22 INFO Running Finviz Scraper on BABA by flair
+16:20:54,397 INFO Running Finviz Scraper on BABA by flair
+16:35:24,750 INFO Running Finviz Scraper on BABA by flair
+16:38:33,319 INFO Finished scraping BABA news from Finviz
+16:38:33,676 INFO Starting analyzing BABA news by flair
+16:38:45,530 INFO Program finished analyzing
+16:38:46,761 INFO Program finished analyzing
+16:38:52,830 INFO Program finished analyzing
+16:39:00,967 INFO Program finished analyzing
+16:39:19,364 INFO Program finished analyzing
+16:39:31,519 INFO Program finished analyzing
+16:39:38,840 INFO Program finished analyzing
+16:40:09,763 INFO Program finished analyzing
+16:40:19,636 INFO Program finished analyzing
+16:40:51,206 INFO Program finished analyzing
+16:40:52,238 INFO Program finished analyzing
+16:41:25,816 INFO Program finished analyzing
+16:41:29,442 INFO Program finished analyzing
+16:42:19,871 INFO Program finished analyzing
+16:42:24,96 INFO Program finished analyzing
+16:42:55,453 INFO Program finished analyzing
+16:42:56,904 INFO Program finished analyzing
+16:44:16,119 INFO Program finished analyzing
+16:44:17,878 INFO Program finished analyzing
+16:44:22,126 INFO Program finished analyzing
+16:44:22,943 INFO Program finished analyzing
+16:44:43,375 INFO Program finished analyzing
+16:44:49,974 INFO Program finished analyzing
+16:44:56,575 INFO Program finished analyzing
+16:45:30,731 INFO Program finished analyzing
+16:46:25,665 INFO Program finished analyzing
+16:46:29,405 INFO Program finished analyzing
+16:46:37,748 INFO Program finished analyzing
+16:46:41,775 INFO Program finished analyzing
+16:46:48,555 INFO Program finished analyzing
+16:47:02,335 INFO Program finished analyzing
+16:47:44,894 INFO Program finished analyzing
+17:08:09,625 INFO Running Finviz Scraper on BABA by flair
+17:09:23,415 INFO Running Finviz Scraper on BABA by flair
+17:10:15,280 INFO Running Finviz Scraper on BABA by flair
+17:10:35,710 INFO Running Finviz Scraper on BABA by flair
+17:11:32,395 INFO Running Finviz Scraper on BABA by flair
+17:14:41,915 INFO Finished scraping BABA news from Finviz
+17:14:42,265 INFO Starting analyzing BABA news by flair
+17:22:24,390 INFO Running Finviz Scraper on BABA by flair
+17:26:50,175 INFO Running Finviz Scraper on BABA by flair
+17:29:54,905 INFO Running Finviz Scraper on BABA by flair
+17:32:57,439 INFO Finished scraping BABA news from Finviz
+17:32:57,780 INFO Starting analyzing BABA news by flair
+17:34:38,566 INFO Program finished analyzing
+17:34:46,12 INFO Program finished analyzing
+17:34:49,45 INFO Program finished analyzing
+17:37:13,268 INFO Program finished analyzing
+17:37:13,922 INFO Program finished analyzing
+17:37:17,718 INFO Program finished analyzing
+17:37:19,220 INFO Program finished analyzing
+17:37:20,876 INFO Program finished analyzing
+17:38:01,391 INFO Program finished analyzing
+17:38:56,517 INFO Program finished analyzing
+17:39:00,853 INFO Program finished analyzing
+17:39:04,753 INFO Program finished analyzing
+17:39:40,14 INFO Program finished analyzing
+17:39:41,102 INFO Program finished analyzing
+17:40:56,435 INFO Program finished analyzing
+17:41:17,483 INFO Program finished analyzing
+17:42:13,346 INFO Program finished analyzing
+17:51:42,239 INFO Running Finviz Scraper on BABA by flair
+17:53:11,19 INFO Running Finviz Scraper on BABA by flair
+17:56:17,419 INFO Finished scraping BABA news from Finviz
+17:56:17,758 INFO Starting analyzing BABA news by flair
+17:56:37,199 INFO Program finished analyzing
+17:57:30,95 INFO Program finished analyzing
+17:58:11,722 INFO Program finished analyzing
+17:59:17,560 INFO Program finished analyzing
+17:59:21,295 INFO Program finished analyzing
+18:00:19,169 INFO Program finished analyzing
+18:00:57,111 INFO Program finished analyzing
+18:02:20,143 INFO Program finished analyzing
+18:04:10,255 INFO Program finished analyzing
+18:04:50,663 INFO Running Finviz Scraper on BABA by vader
+18:08:05,250 INFO Finished scraping BABA news from Finviz
+18:08:05,607 INFO Starting analyzing BABA news by vader
+18:09:45,129 INFO Program finished analyzing
+18:12:08,564 INFO Program finished analyzing
+18:12:46,398 INFO Program finished analyzing
+18:13:41,769 INFO Program finished analyzing
+18:13:45,444 INFO Program finished analyzing
+18:14:23,99 INFO Program finished analyzing
+18:15:42,615 INFO Program finished analyzing
+18:16:04,530 INFO Program finished analyzing
+18:17:07,171 INFO Program finished analyzing
+18:18:22,908 INFO Running Finviz Scraper on BABA by flair
+18:21:26,925 INFO Finished scraping BABA news from Finviz
+18:21:27,351 INFO Starting analyzing BABA news by flair
+18:23:05,812 INFO Program finished analyzing
+18:25:28,544 INFO Program finished analyzing
+18:26:09,954 INFO Program finished analyzing
+18:27:10,773 INFO Program finished analyzing
+18:27:14,737 INFO Program finished analyzing
+18:27:53,452 INFO Program finished analyzing
+18:29:14,502 INFO Program finished analyzing
+18:29:36,597 INFO Program finished analyzing
+18:30:45,202 INFO Program finished analyzing
+18:57:44,435 INFO Lock 2002429568968 acquired on C:\Users\97254/.cache\torch\transformers\ebd85e1aa6c123e848e5b19133c4d93f6c89578a66a897713aac025682374e88.7e19e2c33c1e3dc05de295fb8502e9a3c92b9f10da9f89b53dd2a00dce859312.lock
+18:57:44,972 INFO Lock 2002429568968 released on C:\Users\97254/.cache\torch\transformers\ebd85e1aa6c123e848e5b19133c4d93f6c89578a66a897713aac025682374e88.7e19e2c33c1e3dc05de295fb8502e9a3c92b9f10da9f89b53dd2a00dce859312.lock
+18:57:45,473 INFO Lock 2002429568072 acquired on C:\Users\97254/.cache\torch\transformers\8cb953e63f07b87ab6fffc36d33b76b80d00f9ac3cb212250ae992a9f452e31c.437aa611e89f6fc6675a049d2b5545390adbc617e7d655286421c191d2be2791.lock
+18:57:46,606 INFO Lock 2002429568072 released on C:\Users\97254/.cache\torch\transformers\8cb953e63f07b87ab6fffc36d33b76b80d00f9ac3cb212250ae992a9f452e31c.437aa611e89f6fc6675a049d2b5545390adbc617e7d655286421c191d2be2791.lock
+18:57:47,646 INFO Lock 1999765650952 acquired on C:\Users\97254/.cache\torch\transformers\3a2d8d4e6fae27078cacb9ba916b7189e4c01967819dbb3a4d8156ddfeba95a4.dd8bd9bfd3664b530ea4e645105f557769387b3da9f79bdb55ed556bdd80611d.lock
+18:57:48,163 INFO Lock 1999765650952 released on C:\Users\97254/.cache\torch\transformers\3a2d8d4e6fae27078cacb9ba916b7189e4c01967819dbb3a4d8156ddfeba95a4.dd8bd9bfd3664b530ea4e645105f557769387b3da9f79bdb55ed556bdd80611d.lock
+18:57:48,695 INFO Lock 2002323143048 acquired on C:\Users\97254/.cache\torch\transformers\bffa9630930ea05ca83e90fa1e9dfaf28b524f03d64863275d8a1de43ebe2210.f19de0c372e9b00104464e8b09d5fbbdd67565d0e0af78462fb22d8f5d2c1fe1.lock
+18:57:49,350 INFO Lock 2002323143048 released on C:\Users\97254/.cache\torch\transformers\bffa9630930ea05ca83e90fa1e9dfaf28b524f03d64863275d8a1de43ebe2210.f19de0c372e9b00104464e8b09d5fbbdd67565d0e0af78462fb22d8f5d2c1fe1.lock
+18:57:50,985 INFO Lock 2002463667144 acquired on C:\Users\97254/.cache\torch\transformers\66ee38aab9db09d8e94638d849a480c6d330a554f487a7e2811931ee4de1e8ce.7192ce73718c43c6f272da7c04e4290c87bb5040b5ec0aaa08308d21218b7f87.lock
+18:58:34,589 INFO Lock 2002463667144 released on C:\Users\97254/.cache\torch\transformers\66ee38aab9db09d8e94638d849a480c6d330a554f487a7e2811931ee4de1e8ce.7192ce73718c43c6f272da7c04e4290c87bb5040b5ec0aaa08308d21218b7f87.lock
+21:32:01,544 INFO Running Finviz Scraper on BABA by finbert
+21:36:12,974 INFO Finished scraping BABA news from Finviz
+21:37:17,373 INFO Running Finviz Scraper on BABA by finbert
+21:41:07,543 INFO Finished scraping BABA news from Finviz
+21:41:13,583 INFO Starting analyzing BABA news by finbert
+21:44:43,373 INFO Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex .
+21:46:25,863 INFO Running Finviz Scraper on BABA by finbert
+21:50:17,748 INFO Finished scraping BABA news from Finviz
+21:50:24,72 INFO Starting analyzing BABA news by finbert
+21:58:48,152 INFO Running Finviz Scraper on BABA by finbert
+22:28:15,680 INFO Running Finviz Scraper on BABA by flair
+22:28:16,230 INFO Starting analyzing BABA news by flair
+22:29:59,749 INFO Running Finviz Scraper on BABA
+22:35:22,444 INFO Finished scraping BABA news from Finviz
+22:35:22,449 INFO Running Finviz Scraper on BABA by flair
+22:35:24,94 INFO Starting analyzing BABA news by flair
+22:37:50,219 INFO Running Finviz Scraper on BABA by flair
+22:37:51,429 INFO Starting analyzing BABA news by flair
+22:40:24,479 INFO Program finished analyzing
+22:43:33,211 INFO Program finished analyzing
+22:44:14,205 INFO Program finished analyzing
+22:45:13,561 INFO Program finished analyzing
+22:45:17,712 INFO Program finished analyzing
+22:45:55,804 INFO Program finished analyzing
+22:47:15,504 INFO Program finished analyzing
+22:47:37,975 INFO Program finished analyzing
+22:49:00,854 INFO Program finished analyzing
+22:49:00,884 INFO Running Finviz Scraper on BABA by vader
+22:49:01,252 INFO Starting analyzing BABA news by vader
+22:50:49,398 INFO Program finished analyzing
+22:53:35,147 INFO Program finished analyzing
+22:54:21,429 INFO Program finished analyzing
+22:55:20,297 INFO Program finished analyzing
+22:55:24,425 INFO Program finished analyzing
+22:56:03,984 INFO Program finished analyzing
+22:57:26,270 INFO Program finished analyzing
+22:57:46,640 INFO Program finished analyzing
+22:59:05,997 INFO Program finished analyzing
+22:59:06,15 INFO Running Finviz Scraper on BABA by finbert
+22:59:08,899 INFO Starting analyzing BABA news by finbert
+23:01:07,32 INFO Program finished analyzing
+23:01:27,274 INFO Running Finviz Scraper on BABA by finbert
+23:01:29,369 INFO Starting analyzing BABA news by finbert
+23:03:13,951 INFO Program finished analyzing
+23:06:18,231 INFO Program finished analyzing
+23:07:16,565 INFO Program finished analyzing
+23:08:38,797 INFO Program finished analyzing
+23:08:44,581 INFO Program finished analyzing
+23:09:37,198 INFO Program finished analyzing
+23:11:12,59 INFO Program finished analyzing
+23:11:38,355 INFO Program finished analyzing
+23:13:02,643 INFO Program finished analyzing
+18:23:25,959 INFO Running Finviz Scraper on BABA
+18:26:49,944 INFO Finished scraping BABA news from Finviz
+18:26:49,964 INFO Running Finviz Scraper on BABA by flair
+18:26:50,304 INFO Starting analyzing BABA news by flair
+18:28:30,723 INFO Program finished analyzing
+18:31:08,644 INFO Program finished analyzing
+18:31:52,74 INFO Program finished analyzing
+18:32:54,596 INFO Program finished analyzing
+18:32:59,154 INFO Program finished analyzing
+18:33:40,444 INFO Program finished analyzing
+18:35:05,770 INFO Program finished analyzing
+18:35:28,725 INFO Program finished analyzing
+18:36:54,75 INFO Program finished analyzing
+18:37:32,794 INFO Program finished analyzing
+18:38:07,803 INFO Program finished analyzing
+18:38:19,433 INFO Program finished analyzing
+18:39:08,843 INFO Program finished analyzing
+18:39:58,705 INFO Program finished analyzing
+18:41:56,186 INFO Program finished analyzing
+18:44:37,667 INFO Program finished analyzing
+18:44:37,679 INFO Running Finviz Scraper on BABA by vader
+18:44:38,20 INFO Starting analyzing BABA news by vader
+18:46:18,120 INFO Program finished analyzing
+18:48:49,785 INFO Program finished analyzing
+18:49:27,268 INFO Program finished analyzing
+18:50:21,242 INFO Program finished analyzing
+18:50:24,792 INFO Program finished analyzing
+18:50:59,869 INFO Program finished analyzing
+18:52:14,303 INFO Program finished analyzing
+18:52:33,632 INFO Program finished analyzing
+18:53:44,130 INFO Program finished analyzing
+18:54:15,186 INFO Program finished analyzing
+18:54:41,496 INFO Program finished analyzing
+18:54:50,596 INFO Program finished analyzing
+18:55:29,187 INFO Program finished analyzing
+18:56:15,658 INFO Program finished analyzing
+18:57:56,324 INFO Program finished analyzing
+19:00:30,393 INFO Program finished analyzing
+19:00:30,422 INFO Running Finviz Scraper on BABA by finbert
+19:00:32,944 INFO Starting analyzing BABA news by finbert
+19:02:24,524 INFO Program finished analyzing
+19:05:04,908 INFO Program finished analyzing
+19:05:45,100 INFO Program finished analyzing
+19:06:45,319 INFO Program finished analyzing
+19:06:49,334 INFO Program finished analyzing
+19:07:27,40 INFO Program finished analyzing
+19:08:42,583 INFO Program finished analyzing
+19:09:05,1 INFO Program finished analyzing
+19:10:25,69 INFO Program finished analyzing
+19:10:57,79 INFO Program finished analyzing
+19:11:27,374 INFO Program finished analyzing
+19:11:38,734 INFO Program finished analyzing
+19:12:26,56 INFO Program finished analyzing
+19:13:20,216 INFO Program finished analyzing
+19:15:13,940 INFO Program finished analyzing
+19:18:11,972 INFO Program finished analyzing
+17:26:27,0 INFO Running Finviz Scraper on BABA
+17:30:02,364 INFO Finished scraping BABA news from Finviz
+17:30:02,380 INFO Running Finviz Scraper on BABA by flair
+17:30:02,718 INFO Starting analyzing BABA news by flair
+17:31:37,945 INFO Program finished analyzing
+17:34:00,310 INFO Program finished analyzing
+17:34:37,352 INFO Program finished analyzing
+17:35:29,947 INFO Program finished analyzing
+17:35:33,636 INFO Program finished analyzing
+17:36:08,934 INFO Program finished analyzing
+17:37:27,702 INFO Program finished analyzing
+17:37:47,456 INFO Program finished analyzing
+17:39:04,357 INFO Program finished analyzing
+17:41:47,798 INFO Program finished analyzing
+17:43:32,872 INFO Program finished analyzing
+17:44:24,446 INFO Program finished analyzing
+17:45:07,786 INFO Program finished analyzing
+17:45:18,805 INFO Program finished analyzing
+17:45:48,569 INFO Program finished analyzing
+17:46:15,76 INFO Program finished analyzing
+17:46:32,841 INFO Program finished analyzing
+17:46:48,936 INFO Program finished analyzing
+17:46:56,140 INFO Program finished analyzing
+17:47:09,178 INFO Program finished analyzing
+17:47:26,296 INFO Program finished analyzing
+17:47:33,437 INFO Program finished analyzing
+17:47:42,190 INFO Program finished analyzing
+17:47:51,48 INFO Program finished analyzing
+17:48:08,173 INFO Program finished analyzing
+17:48:21,663 INFO Program finished analyzing
+17:48:26,253 INFO Program finished analyzing
+17:48:38,660 INFO Program finished analyzing
+17:48:46,875 INFO Program finished analyzing
+17:48:48,288 INFO Program finished analyzing
+17:48:54,218 INFO Program finished analyzing
+17:48:54,255 INFO Running Finviz Scraper on BABA by vader
+17:48:54,618 INFO Starting analyzing BABA news by vader
+17:50:36,917 INFO Program finished analyzing
+17:53:02,833 INFO Program finished analyzing
+17:53:43,260 INFO Program finished analyzing
+17:54:36,742 INFO Program finished analyzing
+17:54:40,174 INFO Program finished analyzing
+17:55:14,673 INFO Program finished analyzing
+17:56:25,695 INFO Program finished analyzing
+17:56:49,89 INFO Program finished analyzing
+17:57:58,788 INFO Program finished analyzing
+18:00:27,666 INFO Program finished analyzing
+18:02:03,561 INFO Program finished analyzing
+18:02:49,939 INFO Program finished analyzing
+18:03:28,327 INFO Program finished analyzing
+18:03:37,374 INFO Program finished analyzing
+18:04:05,482 INFO Program finished analyzing
+18:04:28,154 INFO Program finished analyzing
+18:04:41,607 INFO Program finished analyzing
+18:04:55,81 INFO Program finished analyzing
+18:05:01,185 INFO Program finished analyzing
+18:05:13,290 INFO Program finished analyzing
+18:05:28,551 INFO Program finished analyzing
+18:05:35,282 INFO Program finished analyzing
+18:05:43,285 INFO Program finished analyzing
+18:05:50,551 INFO Program finished analyzing
+18:06:06,304 INFO Program finished analyzing
+18:06:18,355 INFO Program finished analyzing
+18:06:22,241 INFO Program finished analyzing
+18:06:32,638 INFO Program finished analyzing
+18:06:39,256 INFO Program finished analyzing
+18:06:40,492 INFO Program finished analyzing
+18:06:44,523 INFO Program finished analyzing
+18:06:44,533 INFO Running Finviz Scraper on BABA by finbert
+18:06:47,65 INFO Starting analyzing BABA news by finbert
+18:08:26,841 INFO Program finished analyzing
+18:10:57,194 INFO Program finished analyzing
+18:11:41,270 INFO Program finished analyzing
+18:12:42,992 INFO Program finished analyzing
+18:12:47,1 INFO Program finished analyzing
+18:13:24,740 INFO Program finished analyzing
+18:14:43,92 INFO Program finished analyzing
+18:15:05,600 INFO Program finished analyzing
+18:16:27,268 INFO Program finished analyzing
+18:19:34,824 INFO Program finished analyzing
+18:21:39,432 INFO Program finished analyzing
+18:22:40,799 INFO Program finished analyzing
+18:23:33,618 INFO Program finished analyzing
+18:23:44,985 INFO Program finished analyzing
+18:24:17,514 INFO Program finished analyzing
+18:24:42,808 INFO Program finished analyzing
+18:24:59,625 INFO Program finished analyzing
+18:25:17,462 INFO Program finished analyzing
+18:25:25,741 INFO Program finished analyzing
+18:25:42,222 INFO Program finished analyzing
+18:26:01,871 INFO Program finished analyzing
+18:26:10,923 INFO Program finished analyzing
+18:26:21,35 INFO Program finished analyzing
+18:26:31,912 INFO Program finished analyzing
+18:26:51,387 INFO Program finished analyzing
+18:27:08,55 INFO Program finished analyzing
+18:27:13,862 INFO Program finished analyzing
+18:27:27,659 INFO Program finished analyzing
+18:27:35,795 INFO Program finished analyzing
+18:27:37,305 INFO Program finished analyzing
+18:27:42,935 INFO Program finished analyzing
